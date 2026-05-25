@@ -1,0 +1,7 @@
+skyfield
+plotly
+pandas
+streamlit
+fastapi
+uvicorn
+poliastro
